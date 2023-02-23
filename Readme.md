@@ -18,7 +18,7 @@
 
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=KellynCodes&theme=dark&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=KellynCodes&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KellynCodes&theme=dark)](https://git.io/streak-stats)<br>
 
