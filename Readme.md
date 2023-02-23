@@ -23,3 +23,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KellynCodes&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KellynCodes&layout=compact&theme=vision-friendly-dark)](https://github.com/Kellyncodes/github-readme-stats)
