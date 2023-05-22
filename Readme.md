@@ -1,11 +1,7 @@
 # Hi there, I am Kelechi Amos :wave:<br />
 ## About Me :construction_worker_man:
 <br />
-<b> :one: I am a Developer with advanced level exprience so far. <b/> <br /><br/>
-
-<b> :two: I am tech enthusiast and a software Intern 
-[@genesysTechHub Enugu](https://bezao.genesystechhub.com/) <b/>:congratulations:
-<br /> <br />
+<b> :one: I am Software Engineer <b/> <br /><br/>
 <b> 3️⃣I love to work with challenging tech problems <b/> <br /> <br />
 
 ### 🌐 Socials
