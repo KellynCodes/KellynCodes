@@ -4,7 +4,7 @@
 <b> :one: I am Software Engineer <b/> <br /><br/>
 <b> 3️⃣I love to work with challenging tech problems <b/> <br /> <br />
 
- <a href="https://api.daily.dev/devcards/67d99948936c455d8d19662044d78a8a.png?r=8sf"></a>
+<a href="https://app.daily.dev/KellynCodes"><img src="https://api.daily.dev/devcards/67d99948936c455d8d19662044d78a8a.png?r=8sf" width="400" alt="Kelechi Amos Omeh Kelechi's Dev Card"/></a>
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kellyncodes)
  [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kellyncode) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kellyncodes@gmail.com)
