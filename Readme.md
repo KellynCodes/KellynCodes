@@ -1,7 +1,7 @@
 # Hi there, I am Kelechi Amos :wave:<br />
 ## About Me :construction_worker_man:
 <br />
-<b> :one: I am Software Engineer <b/> <br /><br/>
+<b> :one: I am a Software Engineer <b/> <br /><br/>
 <b> 3️⃣I love to work with challenging tech problems <b/> <br /> <br />
 
 
